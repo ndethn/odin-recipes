@@ -1,0 +1,42 @@
+h1 {
+    background-color: rgb(29, 207, 29);
+    text-align: center;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace
+}
+
+a {
+    background-color: rgb(245, 234, 105);
+    color: #0a0909;
+}
+
+.return-link {
+    background-color: gray;
+    font-size: 15px;
+}
+
+h2 {
+    background-color: brown;
+}
+
+#roast-header {
+    background-color: yellow;
+}
+
+#beef-header {
+    background-color: rgb(118, 53, 53);
+    color: white;
+}
+
+#pepp-header {
+    background-color: rgb(168, 73, 73);
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+.home-list {
+    font-size: 20px;    
+}
